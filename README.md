@@ -1,5 +1,5 @@
 # XerathAutoAIM
-League of Legends External Xerath spell AutoAIM
+League of Legends External Xerath spell AutoAIM (Patch 14.5.)
 
 # Xerath Q:
 
